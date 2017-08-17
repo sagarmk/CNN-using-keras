@@ -27,3 +27,9 @@
 		- Flatten layer.
 		- Fully connected layer with 128 neurons and rectifier activation.
 		- Fully connected layer with 50 neurons and rectifier activation.
+
+Results:
+
+Without much modifications of both the models we observed Covnet to perform better on both sides than MLP:
+- Simple Covnet gave the best performance
+- Larger Covnet gave the best accuracy
